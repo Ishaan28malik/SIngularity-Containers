@@ -1,2 +1,0 @@
-$ singularity pull shub://vsoch/hello-world   # pull with default name, vsoch-hello-world-master.simg
-$ singularity pull --name hello.simg shub://vsoch/hello-world   # pull with custom name
